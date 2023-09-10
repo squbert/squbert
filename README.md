@@ -2,6 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am an HTML Academy student by profession, a full-stack developer <img src="svg/htmlacademy.svg" alt="HTML Academy Icon" width="32" height="32</h3>
 <br />
+                                                                                        
 [![trophy](https://github-profile-trophy.vercel.app/?username=squbert)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
