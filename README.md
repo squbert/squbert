@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am an HTML Academy student by profession, a full-stack developer <span align="center"><img src="svg/htmlacademy.svg" alt="HTML Academy Icon" width="32" height="32"></span></h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?squbert=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **squbert/squbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
